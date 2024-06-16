@@ -11,5 +11,6 @@
 
 @section('main')
     Page Acceuil 
+    <x-users-table />
 @endsection
 
